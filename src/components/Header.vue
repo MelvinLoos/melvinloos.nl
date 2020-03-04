@@ -8,9 +8,9 @@
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav class="ml-auto">
-          <g-link class="nav--link" to="/about">About</g-link>
-          <g-link class="nav--link" to="/blog">Blog</g-link>
-          <g-link class="nav--link" to="/contact">Contact</g-link>
+          <li><g-link class="nav--link" to="/about">About</g-link></li>
+          <li><g-link class="nav--link" to="/blog">Blog</g-link></li>
+          <li><g-link class="nav--link" to="/contact">Contact</g-link></li>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>

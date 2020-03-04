@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <img class="greet-image" src="../../uploads/me.png" />
+    <img class="greet-image" src="../../uploads/me.png" alt="Melvin Loos Bitmoji" />
     <div class="row">
       <div class="col-sm">
         <h2 class="mb-4">Welcome cyberspace traveler!</h2>
