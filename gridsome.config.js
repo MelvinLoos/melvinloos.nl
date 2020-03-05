@@ -20,6 +20,13 @@ module.exports = {
       options: {
         cacheTime: 600000
       }
+    },
+    {
+      use: 'gridsome-plugin-webpack-size',
+      options: {
+        development: true,
+        writeFile: true
+      }
     }
   ],
   css: {
