@@ -17,5 +17,10 @@ fields:
 - type: file
   name: image
   label: image
+- name: path
+  type: text
+  config:
+    required: false
+  label: path
 pages:
 - blog/placeholder.md
