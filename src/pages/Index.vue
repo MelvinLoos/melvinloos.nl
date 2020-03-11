@@ -16,7 +16,7 @@
       </div>
       <div class="col-sm-4">
         <h2>Latest blog posts</h2>
-        <ul>
+        <ul v-if="$page">
           <li v-for="edge in $page.posts.edges" :key="edge.node.id">
             <a :href="edge.node.path">{{ edge.node.title }}</a>
           </li>
@@ -44,7 +44,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: 'Welcome to my site'
+    title: 'Welcome to my website'
   },
   mounted() {
     let linkedInScript = document.createElement('script')

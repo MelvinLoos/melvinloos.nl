@@ -8,9 +8,9 @@
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav class="ml-auto">
-          <li><g-link class="nav--link" to="/about">About</g-link></li>
-          <li><g-link class="nav--link" to="/blog">Blog</g-link></li>
-          <li><g-link class="nav--link" to="/contact">Contact</g-link></li>
+          <li class="nav-item"><g-link class="nav-link px-2" to="/about">About</g-link></li>
+          <li class="nav-item"><g-link class="nav-link px-2" to="/blog">Blog</g-link></li>
+          <li class="nav-item"><g-link class="nav-link px-2" to="/contact">Contact</g-link></li>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
@@ -69,15 +69,11 @@ nav {
   width: 40px;
 }
 
-.nav--link {
-  margin-left: 20px;
-  @media (max-width: 419px) {
-    margin: 0;
-    padding: 15px 10px 10px 0;
-  }
-}
-
 .active--exact {
   font-weight: bold;
+}
+
+.nav-item:hover{
+  background-color: lightsteelblue;
 }
 </style>
