@@ -1,25 +1,20 @@
 <template>
   <Layout>
-    <g-image class="greet-image" src="../../uploads/me.png" alt="Melvin Loos Bitmoji"> </g-image>
     <div class="row">
+      <div class="col-sm"><g-image class="img-fluid" src="../../uploads/me.png" alt="Melvin Loos Bitmoji"> </g-image></div>
       <div class="col-sm">
-        <h2 class="mb-4">Welcome cyberspace traveler!</h2>
-        <p>
-          This little corner of the internet is my little place to show you all about me. Don't be a stranger, grab a chair and let's get acquainted!
-        </p>
-        <p>
-          My name is Melvin Loos and I live in Rotterdam The Netherlands. 
-          I work as a part-time fullstack developer for a hosting company and for the other part do all kinds of freelance/entrepreneural projects.
-        </p>
-        <p>
-          I am a big time fan, advocate and occasional contributor to the Open Source community.
-          So you might see me participate on OS things on the internet at places like Github or Stackoverflow or maybe even in reallife 😉.
-        </p>
-        <p>
-          Occasionaly I find the need to write my thoughts down so you can find that here as well on <a href="/blog">my blog</a>.
-        </p>
+        <div class="LI-profile-badge text-center" data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="melvinloos">
+          <a class="LI-simple-link" href='https://nl.linkedin.com/in/melvinloos?trk=profile-badge'>Melvin Loos</a>
+        </div>
       </div>
-      <div class="col-sm">
+    </div>
+    <div class="row mt-2">
+      <div class="col-sm-8">
+        <blockquote class="blockquote">
+          <p class="mb-0">I am Melvin Loos, a fullstack developer from Rotterdam the Netherlands. Welcome to my website!</p>
+        </blockquote>
+      </div>
+      <div class="col-sm-4">
         <h2>Latest blog posts</h2>
         <ul>
           <li v-for="edge in $page.posts.edges" :key="edge.node.id">
@@ -49,17 +44,21 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: 'Welcome to MelvinLoos.nl'
+    title: 'Welcome to my site'
+  },
+  mounted() {
+    let linkedInScript = document.createElement('script')
+    linkedInScript.setAttribute('src', 'https://platform.linkedin.com/badges/js/profile.js')
+    linkedInScript.async = true
+    linkedInScript.defer = true
+    document.head.appendChild(linkedInScript)
   }
 }
 </script>
 
 <style>
-.greet-image {
-  display: block;
-  margin: auto;
-  width: 90%;
-  max-width: 400px;
-  padding-bottom: 50px;
+.LI-badge-container
+{
+  text-align: left;
 }
 </style>

@@ -1,6 +1,14 @@
 import DefaultLayout from '~/layouts/Default.vue'
 
-import { NavPlugin, NavbarPlugin, FormPlugin, FormGroupPlugin, FormInputPlugin, FormTextareaPlugin, ButtonPlugin } from 'bootstrap-vue'
+import { 
+    NavPlugin,
+    NavbarPlugin,
+    FormPlugin,
+    FormGroupPlugin,
+    FormInputPlugin,
+    FormTextareaPlugin,
+    ButtonPlugin
+  } from 'bootstrap-vue'
 import './assets/styles/main.scss'
 
 import checkIfMobile from './mixins/checkIfMobile'

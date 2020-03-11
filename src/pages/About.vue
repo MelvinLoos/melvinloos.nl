@@ -3,11 +3,21 @@
     <h1 class="mb-4">About</h1>
     <img class="about-image" src="../../uploads/profile.svg" />
 
-    <p>Lorem ipsum dolor sit amet consectetur adipiscing elit, platea elementum mus lectus molestie et. Conubia taciti nunc proin vehicula et nascetur lacinia commodo non, penatibus vel dui pharetra inceptos himenaeos orci viverra ad, quis ullamcorper sit scelerisque nibh praesent imperdiet vulputate.</p>
-
-    <p>Eros morbi himenaeos eget sagittis parturient, netus sapien pharetra semper iaculis orci, elementum ullamcorper eleifend aenean. Orci ligula euismod taciti conubia facilisis mattis laoreet, cras aliquam ultrices purus augue morbi, a litora feugiat dapibus per lacinia. </p>
-
-    <p>Conubia non mi vulputate natoque nullam sem nascetur fames felis, hendrerit imperdiet pretium urna a augue nec quis lorem, orci sed vehicula pulvinar viverra nam lacus porttitor. Praesent id elementum aliquet dolor himenaeos primis urna vestibulum, molestie sagittis cursus facilisi tellus phasellus lacinia, viverra porttitor tincidunt tortor habitasse class luctus. </p>
+    <h2 class="mb-4">Welcome cyberspace traveler!</h2>
+    <p>
+      This little corner of the internet is my little place to show you all about me. Don't be a stranger, grab a chair and let's get acquainted!
+    </p>
+    <p>
+      My name is Melvin Loos and I live in Rotterdam The Netherlands. 
+      I work as a part-time fullstack developer for a hosting company and for the other part do all kinds of freelance/entrepreneural projects.
+    </p>
+    <p>
+      I am a big time fan, advocate and occasional contributor to the Open Source community.
+      So you might see me participate on OS things on the internet at places like Github or Stackoverflow or maybe even in reallife 😉.
+    </p>
+    <p>
+      Occasionaly I find the need to write my thoughts down so you can find that here as well on <a href="/blog">my blog</a>.
+    </p>
   </Layout>
 </template>
 
