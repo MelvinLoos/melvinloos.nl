@@ -59,7 +59,7 @@ export default {
   display: block;
   margin: auto;
   width: 90%;
-  max-width: 500px;
+  max-width: 400px;
   padding-bottom: 50px;
 }
 </style>
