@@ -4,6 +4,7 @@ excerpt: ''
 date: 
 author: ''
 image: ''
+path: ''
 
 ---
-This is just a placeholder
+This is just a placeholder.
