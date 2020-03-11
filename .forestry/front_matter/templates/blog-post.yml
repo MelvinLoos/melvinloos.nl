@@ -5,6 +5,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: path
+  type: text
+  config:
+    required: false
+  label: path
 - type: textarea
   name: excerpt
   label: excerpt
@@ -17,10 +22,5 @@ fields:
 - type: file
   name: image
   label: image
-- name: path
-  type: text
-  config:
-    required: false
-  label: path
 pages:
 - blog/placeholder.md
