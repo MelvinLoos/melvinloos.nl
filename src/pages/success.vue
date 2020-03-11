@@ -9,7 +9,10 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Success'
+    title: 'Success',
+    meta: [
+      { name: 'robots', content: 'noindex' }
+    ]
   }
 }
 </script>
