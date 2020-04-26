@@ -11,7 +11,7 @@ So recently I was talking to a friend (who works with websites a lot) and he sai
 
 > "I have been looking into web development and want to be able to build a website by myself, any tips on getting started?"
 
-Of course I was glad to help and I do have quite a few websites, articles and whatnot scattered in my bookmarks and notes (and in my head ;)) about this topic.
+Of course I was glad to help and I do have quite a few websites, articles and whatnot scattered in my bookmarks and notes (and in my head 😉) about this topic.
 
 But all of this was not neatly stacked together in a accessible logical order for a web newbie to understand. And since I have actually received this question more often I thought, "ok why not create a little article to pack this together". Which finally gives me a good excuses to start the blog on my new website YEAY!
 
@@ -29,16 +29,16 @@ The first words of that sentence should be simple enough but let's look at "web 
 
 > **Web development** is the work involved in developing a [website](https://en.wikipedia.org/wiki/Website "Website") for the [Internet](https://en.wikipedia.org/wiki/Internet "Internet") ([World Wide Web](https://en.wikipedia.org/wiki/World_Wide_Web "World Wide Web")) or an [intranet](https://en.wikipedia.org/wiki/Intranet "Intranet") (a private network).[\[1\]](https://en.wikipedia.org/wiki/Web_development#cite_note-1) Web development can range from developing a simple single [static page](https://en.wikipedia.org/wiki/Static_web_page "Static web page") of [plain text](https://en.wikipedia.org/wiki/Plain_text "Plain text") to complex web-based [internet applications](https://en.wikipedia.org/wiki/Internet_application "Internet application") (web apps), [electronic businesses](https://en.wikipedia.org/wiki/Electronic_business "Electronic business"), and [social network services](https://en.wikipedia.org/wiki/Social_network_service "Social network service").
 
-As you can probably understand, especially if you read the rest of the article, it can become rather complex. Don't worry we will start with the simplest variant, a static page.
+As you can probably understand, especially if you read the rest of the article, it can become rather complex. But don't worry we will start with the simplest variant, a static page.
 
-When looking at a static page the following happens when you open a website with static content (like this website :D).
+When looking at a static page the following happens when you open a website with static content (like this website 😁).
 
 ```mermaid
 graph TD
     User -->|requests website in| browser[Web browser] -->|connects to server| Server -->|retrieves| files([HTML & CSS files])
 ```
 
----
+***
 
 ```mermaid
 graph TD
@@ -62,15 +62,15 @@ Now what does this tell us? If we want to give the user the ability to use our w
 
 The server part we can skip for now since that is a very technical thing which in most cases is not (directly) a concern for the web developer. Nowadays there are actually a lot of services that can take this entire step out of your hands. Meaning you just deliver your files in some way and the services takes care of the web server part. Especially in the case of static websites this is super simple. A great example and new favorite of mine in this case is [Netlify](https://www.netlify.com/ "Netlify") but I will tell more about that in some other post.
 
-So when we have all that we need to create our content, our HTML & CSS files.
+So when we have all that, we need to create our content: our HTML & CSS files.
 
 ### What are the files a web-server serves?
 
-So I hear you asking, "what are these HTML and CSS files you keep talking about?". Well let me explain. The most important of the two is the HTML file but you actually rarely see those without CSS.
+So I hear you asking, "what are these HTML and CSS files you keep talking about?", let me explain. The most important of the two is the HTML file, however you rarely see those without CSS.
 
 HTML stands for [Hypertext Markup Language](https://en.wikipedia.org/wiki/HTML "HTML") and are just fancy words for text files describing the structure of your web page.
 
-CSS stands for [Cascading Style Sheets]() and also are fancy words for a text file describing the presentation for your web page.
+CSS stands for [Cascading Style Sheets]() and these fancy words stand for a text file describing the presentation for your web page.
 
 So to visualize this, HTML is like the wooden frame of the house and CSS is the paint. Of course this metaphor does not cover it 100% as you can actually do some styling with HTML and influence the structure with CSS. But this should hold up most of the time and is a good guideline when you are having doubts which of the two to use.
 
@@ -110,24 +110,4 @@ That finally brings me to my promised link dump. The following are links to tuto
 * [https://www.codecademy.com](https://www.freecodecamp.org "https://www.freecodecamp.org")
 * [https://www.khanacademy.org/hourofcode](https://www.freecodecamp.org "https://www.freecodecamp.org")
 
-### Going more advanced
-
-#### Javascript
-
-* [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/ "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/")
-
-#### PHP
-
-Instructions the server uses to create the HTML & CSS
-
-* [https://www.codecademy.com/learn/learn-php](https://www.codecademy.com/learn/learn-php "https://www.codecademy.com/learn/learn-php")
-
-##### Videos
-
-* [https://www.youtube.com/watch?v=OK_JCtrrv-c](https://www.youtube.com/watch?v=OK_JCtrrv-c "https://www.youtube.com/watch?v=OK_JCtrrv-c")
-* Harvard course: [http://cs75.tv/2010/fall/](http://cs75.tv/2010/fall/ "http://cs75.tv/2010/fall/")
-
-##### References & best practices
-
-* [https://www.php.net/](https://www.php.net/ "https://www.php.net/")
-* [https://phptherightway.com/](https://www.php.net/ "https://www.php.net/")
+More advanced stuff in the next blog!
