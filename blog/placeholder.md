@@ -7,8 +7,6 @@ image: "/uploads/knowledge-is-power.png"
 path: "/blog/learning-web-development"
 
 ---
-# Learning web development
-
 So recently I was talking to a friend (who works with websites a lot) and he said to me
 
 > "I have been looking into web development and want to be able to build a website by myself, any tips on getting started?"
