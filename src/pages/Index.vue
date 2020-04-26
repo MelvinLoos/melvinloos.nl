@@ -10,8 +10,9 @@
     </div>
     <div class="row mt-2">
       <div class="col-sm-8">
+        <h1>All about Melvin Loos</h1>
         <blockquote class="blockquote">
-          <p class="mb-0">I am Melvin Loos, a fullstack developer from Rotterdam the Netherlands. Welcome to my website!</p>
+          <p class="mb-0">I am Melvin, a fullstack developer from Rotterdam the Netherlands. Learn a bit about me and give me a shout out through my contact form or join the discussion in one of my blog posts!</p>
         </blockquote>
       </div>
       <div class="col-sm-4">
@@ -44,7 +45,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    title: 'Welcome to my website'
+    title: 'Full stack developer: Melvin Loos'
   },
   mounted() {
     let linkedInScript = document.createElement('script')

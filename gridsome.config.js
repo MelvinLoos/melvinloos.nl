@@ -1,6 +1,6 @@
 module.exports = {
   siteName: 'MelvinLoos.nl',
-  siteDescription: 'All about me, Melvin Loos',
+  siteDescription: 'All about full stack developer Melvin Loos. Specialized in APIs, integrations, business process optimalisations & automation.',
   siteUrl: 'https://www.melvinloos.nl',
   plugins: [
     {
