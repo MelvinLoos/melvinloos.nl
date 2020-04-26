@@ -4560,6 +4560,11 @@ gray-matter@^4.0.2:
     section-matter "^1.0.0"
     strip-bom-string "^1.0.0"
 
+gridsome-plugin-disqus@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/gridsome-plugin-disqus/-/gridsome-plugin-disqus-1.0.3.tgz#8ba2066f9683fd8c0c153ef6c341d8e826a65d7e"
+  integrity sha512-boU9zgvqA2AhNzh8cSbUm9iktoZfm8pJFk/hnVvACqKBmPnFjXzRUrfWY3B5xBldR1aw3rfuWQHbF++gqG+5xA==
+
 gridsome-plugin-remark-mermaid@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/gridsome-plugin-remark-mermaid/-/gridsome-plugin-remark-mermaid-1.0.1.tgz#23393b1818e6b09b2961d09587b9018745707228"
@@ -9833,6 +9838,11 @@ vue-analytics@^5.16.1:
   version "5.22.1"
   resolved "https://registry.yarnpkg.com/vue-analytics/-/vue-analytics-5.22.1.tgz#9d6b32da56daee1b9dfb23a267b50349a03f710f"
   integrity sha512-HPKQMN7gfcUqS5SxoO0VxqLRRSPkG1H1FqglsHccz6BatBatNtm/Vyy8brApktZxNCfnAkrSVDpxg3/FNDeOgQ==
+
+vue-disqus@^3.0.5:
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/vue-disqus/-/vue-disqus-3.0.5.tgz#8d0dd5cabdba7c47f82d129d2907a64366842fa8"
+  integrity sha512-T3Y68lXf5W2lYt6j4Y3kZ4opLPH0EAzqriy11MS4D4Q2+UN0tFuUXeYP1MxfvdyaCEboXSM6CUswxsULuNV70Q==
 
 vue-functional-data-merge@^3.1.0:
   version "3.1.0"

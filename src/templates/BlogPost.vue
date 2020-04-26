@@ -19,6 +19,12 @@
       </div>
       <BlogContent class="mt-5" :content="$page.post.content"/>
     </div>
+    <div class="post-comments">
+      <vue-disqus
+        :shortname="shortname"
+        :identifier="$page.post.title"
+      ></vue-disqus>
+    </div>
   </Layout>
 </template>
 
@@ -47,6 +53,11 @@ export default {
       title: this.$page.post.title,
     }
   },
+  data: function() {
+    return {
+      shortname: process.env.GRIDSOME_DISQUS_SHORTNAME
+    }
+  }
 }
 </script>
 

@@ -14,10 +14,12 @@
     "bootstrap": "^4.3.1",
     "bootstrap-vue": "^2.0.4",
     "gridsome": "^0.7.9",
+    "gridsome-plugin-disqus": "^1.0.3",
     "gridsome-plugin-remark-mermaid": "^1.0.1",
     "gridsome-plugin-webpack-size": "^1.0.2",
     "node-sass": "^4.13.0",
-    "sass-loader": "^7.0.0"
+    "sass-loader": "^7.0.0",
+    "vue-disqus": "^3.0.5"
   },
   "devDependencies": {}
 }

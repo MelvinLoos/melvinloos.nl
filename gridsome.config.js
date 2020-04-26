@@ -34,6 +34,9 @@ module.exports = {
         development: true,
         writeFile: true
       }
+    },
+    {
+      use: "gridsome-plugin-disqus"
     }
   ],
   transformers: {
