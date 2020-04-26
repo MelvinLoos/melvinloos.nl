@@ -40,8 +40,20 @@ module.exports = {
     remark: {
       plugins: [
         // Add remark-mermaid plugin
-        'gridsome-plugin-remark-mermaid'
-      ]
+        ['gridsome-plugin-remark-mermaid', {
+          theme: 'dark',
+          viewport: {
+            width: 600,
+            height: 600
+          }
+        }],
+        ['@noxify/gridsome-remark-classes', {
+          blockquote: 'blockquote pl-4 bg-light'
+        }]
+      ],
+      config: {
+        commonmark: true
+      }
     }
   },
   css: {
