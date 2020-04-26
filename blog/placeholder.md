@@ -34,12 +34,14 @@ As you can probably understand, especially if you read the rest of the article, 
 When looking at a static page the following happens when you open a website with static content (like this website :D).
 
 ```mermaid
-graph LR
+graph TD
     User -->|requests website in| browser[Web browser] -->|connects to server| Server -->|retrieves| files([HTML & CSS files])
 ```
 
+---
+
 ```mermaid
-graph LR
+graph TD
     files([HTML & CSS files]) -->|retrieved by| Server -->|sends files| browser[Web browser] -->|converts HTML & CSS into visuals on screen| User
 ```
 
