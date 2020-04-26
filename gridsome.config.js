@@ -36,6 +36,14 @@ module.exports = {
       }
     }
   ],
+  transformers: {
+    remark: {
+      plugins: [
+        // Add remark-mermaid plugin
+        'gridsome-plugin-remark-mermaid'
+      ]
+    }
+  },
   css: {
     loaderOptions: {
       scss: {
