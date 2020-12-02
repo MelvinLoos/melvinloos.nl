@@ -1,11 +1,11 @@
 <template>
-  <div class="layout">
+  <b-container fluid class="layout">
+    <Header/>
     <div id="content-wrapper">
-      <Header/>
       <slot/>
     </div>
     <Footer/>
-  </div>
+  </b-container>
 </template>
 
 <script>
