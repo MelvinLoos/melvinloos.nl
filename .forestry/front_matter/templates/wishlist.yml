@@ -1,4 +1,24 @@
 ---
 label: Wishlist
 hide_body: true
-fields: []
+fields:
+- name: item
+  type: field_group_list
+  fields:
+  - name: text
+    type: text
+    config:
+      required: true
+    label: Text
+    hidden: false
+  - name: url
+    type: text
+    config:
+      required: false
+    label: Url
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Item
+  description: Item for on the wishlist
