@@ -9,6 +9,8 @@ sections:
   label: Static Pages
   create: all
   match: "**/*"
+  templates:
+  - wishlist
 - type: directory
   path: blog
   label: Blog
