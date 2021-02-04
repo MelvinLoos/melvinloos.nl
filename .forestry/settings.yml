@@ -4,9 +4,10 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: document
-  path: wishlist
-  label: Wishlist
+- type: directory
+  path: static_pages
+  label: Static Pages
+  create: all
   match: "**/*"
 - type: directory
   path: blog
