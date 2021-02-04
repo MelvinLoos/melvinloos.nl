@@ -26,6 +26,6 @@ fields:
     max: 
     labelField: 
   label: Item
-  description: Item for on the wishlist
+  description: Items for on the wishlist
 pages:
 - static_pages/wishlist.md
