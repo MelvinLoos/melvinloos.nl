@@ -7,30 +7,15 @@ fields:
   config:
     required: true
   label: Title
-- name: content
-  type: textarea
-  default: ''
+- name: image
+  type: file
   config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: Content
-- name: metadata
-  type: field_group
-  config: {}
-  fields:
-  - name: url
-    type: text
-    config:
-      required: true
-    label: Url
-  - name: image
-    type: file
-    config:
-      maxSize: 64
-    label: Image
-    description: Main image to accompany the article, used as thumbnail on the overview
-      and on the article page itself
-  label: Metadata
-  description: Fields that tell something about the article
+    maxSize: 64
+  label: Image
+  description: Main image to accompany the article, used as thumbnail on the overview
+    and on the article page itself
+- name: url
+  type: text
+  config:
+    required: true
+  label: Url
