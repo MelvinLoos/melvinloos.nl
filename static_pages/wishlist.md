@@ -6,5 +6,6 @@ item:
 - text: L'Oréal Paris Men Expert BarberClub Beard & Hair Styling Cream - 75ml
   url: https://www.bol.com/nl/p/l-oreal-paris-men-expert-barberclub-beard-hair-styling-cream-75ml/9200000082307547/
   image: "/uploads/d21025c6bc5c488ea2d3a42d65c70012.jpg"
+title: Wishlist
 
 ---
