@@ -12,6 +12,7 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - basic-static-page
   - wishlist
 - type: directory
   path: blog
