@@ -8,7 +8,7 @@ fields:
   config:
     required: true
   label: Title
-- name: item
+- name: items
   type: field_group_list
   fields:
   - name: text
@@ -31,7 +31,5 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Item
+  label: Items
   description: Items for on the wishlist
-pages:
-- static_pages/wishlist.md
