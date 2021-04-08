@@ -1,6 +1,6 @@
 ---
 title: About
-image: ''
+image: "/uploads/profile.svg"
 path: "/about"
 
 ---
