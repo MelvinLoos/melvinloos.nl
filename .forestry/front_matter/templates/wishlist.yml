@@ -1,7 +1,13 @@
 ---
 label: Wishlist
 hide_body: true
+display_field: title
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
 - name: item
   type: field_group_list
   fields:
