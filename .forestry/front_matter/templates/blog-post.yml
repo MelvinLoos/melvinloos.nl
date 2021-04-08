@@ -7,6 +7,26 @@ fields:
   config:
     required: true
   label: Title
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Excerpt
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
 - name: image
   type: file
   config:
@@ -14,8 +34,8 @@ fields:
   label: Image
   description: Main image to accompany the article, used as thumbnail on the overview
     and on the article page itself
-- name: url
+- name: path
   type: text
   config:
     required: true
-  label: Url
+  label: Path
