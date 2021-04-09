@@ -6,6 +6,16 @@
     <ul>
       <li>
         <p>
+          <a href="https://www.humblebundle.com/store/wishlist/5442365879746560">Humble Bundle Games Wishlist</a>
+        </p>
+      </li>
+      <li>
+        <p>
+          <a href="https://store.steampowered.com/wishlist/profiles/76561198075534401">Steam Games Wishlist</a>
+        </p>
+      </li>
+      <li>
+        <p>
           <a
             data-from-md
             title="https://www.bol.com/nl/p/l-oreal-paris-men-expert-barberclub-beard-hair-styling-cream-75ml/9200000082307547/"
