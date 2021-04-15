@@ -73,25 +73,6 @@
         <p>
           <a
             data-from-md
-            title="https://www.bol.com/nl/p/mikamax-whiskey-globe-decanter-deluxe-set-0-9-l-incl-2-glazen/9200000100719502/"
-            href="https://www.bol.com/nl/p/mikamax-whiskey-globe-decanter-deluxe-set-0-9-l-incl-2-glazen/9200000100719502/"
-            >MikaMax Whiskey Globe Decanter Deluxe set - 0,9 L - Incl. 2
-            Glazen</a
-          ><br />
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/mikamax-whiskey-globe-decanter-deluxe-set-0-9-l-incl-2-glazen/9200000100719502/"
-            href="https://www.bol.com/nl/p/mikamax-whiskey-globe-decanter-deluxe-set-0-9-l-incl-2-glazen/9200000100719502/"
-            ><img
-              src="../../uploads/a73122b80463490e9604b21698327c2d.jpg"
-              alt="MikaMax Whiskey Globe Decanter Deluxe set - 0,9 L - Incl. 2 Glazen"
-          /></a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a
-            data-from-md
             title="https://www.bol.com/nl/p/bredemeijer-theedoos-9-vakken-bamboe/9200000015352379/"
             href="https://www.bol.com/nl/p/bredemeijer-theedoos-9-vakken-bamboe/9200000015352379/"
             >Bredemeijer Theedoos - 9 vakken - Bamboe</a
@@ -140,22 +121,6 @@
             ><img
               src="../../uploads/16c22374aff24238989bb3420e4649fe.jpg"
               alt="Acaza Stevige Wassorteerder - Wasmand op Wieltjes met 4 Uitneembare Vakken - 140L - Zwart"
-          /></a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/marvel-here-come-the-heroes-maxi-poster/9200000059209091/"
-            href="https://www.bol.com/nl/p/marvel-here-come-the-heroes-maxi-poster/9200000059209091/"
-            >Marvel Avengers Poster</a
-          ><br />
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/marvel-here-come-the-heroes-maxi-poster/9200000059209091/"
-            href="https://www.bol.com/nl/p/marvel-here-come-the-heroes-maxi-poster/9200000059209091/"
-            ><img src="../../uploads/0f53060fa5c441ccb0c740e393684818.jpg" alt=""
           /></a>
         </p>
       </li>
