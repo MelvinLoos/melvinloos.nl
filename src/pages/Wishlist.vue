@@ -154,27 +154,6 @@
           />
         </p>
       </li>
-      <li>
-        <p>
-          <a data-from-md title='https://www.spellenrijk.nl/artikel/23768/pathfinder-gm-screen-2nd-edition.html' href='https://www.spellenrijk.nl/artikel/23768/pathfinder-gm-screen-2nd-edition.html'>Pathfinder GM Screen - 2nd Edition</a>
-          <br />
-          <img src="../../uploads/75e5c400b9294d77b7255ebcd02cf789.png" alt="782243a1063f3c6ca617b4f9deed5224.png">
-        </p>
-      </li>
-      <li>
-        <p>
-          <a data-from-md title='https://www.bol.com/nl/p/polydice-set-voordeel-50-delig-7-sets-van-7-dobbelstenen-van-zeer-hoge-kwaliteit-inclusief-velours-dice-bag-bewaarzakje-dungeons-and-dragons-dnd-dice-d-d-pathfinder-rpg-polyhedral-dice-voordeelset-megapack-mega-set/9300000024017090/?bltgh=js2j3f40oHyjMxppo-lM-Q.2_34.36.ProductImage' href='https://www.bol.com/nl/p/polydice-set-voordeel-50-delig-7-sets-van-7-dobbelstenen-van-zeer-hoge-kwaliteit-inclusief-velours-dice-bag-bewaarzakje-dungeons-and-dragons-dnd-dice-d-d-pathfinder-rpg-polyhedral-dice-voordeelset-megapack-mega-set/9300000024017090/?bltgh=js2j3f40oHyjMxppo-lM-Q.2_34.36.ProductImage'>Polydice set</a>
-          <br />
-          <img src="../../uploads/a11f293e945a4a168b89dc99bf474769.png" alt="306b767781a4ce3fb1ac692acf2e5db5.png">
-        </p>
-      </li>
-      <li>
-        <p>
-          <a data-from-md title='https://www.spellenrijk.nl/artikel/23770/pathfinder-combat-pad-2nd-edition.html' href='https://www.spellenrijk.nl/artikel/23770/pathfinder-combat-pad-2nd-edition.html'>Pathfinder Combat Pad 2nd Edition</a>
-          <br />
-          <img src="../../uploads/d20dd56fc1e8417bb4b1a665471c8b0b.png" alt="c5c20dac12f84e6f71deaf79fde0bd1c.png">
-        </p>
-      </li>
     </ul>
   </Layout>
 </template>
