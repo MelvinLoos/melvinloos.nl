@@ -4,29 +4,11 @@ auto_deploy: false
 admin_path: "/static/admin"
 webhook_url: 
 sections:
-- type: heading
-  label: Content
 - type: directory
   path: blog
   label: Blog
   create: all
   match: "**/*"
-  templates:
-  - blog-post
-- type: directory
-  path: pages
-  label: Pages
-  create: all
-  match: "**/*"
-  templates:
-  - basic-static-page
-- type: directory
-  path: lists
-  label: Lists
-  create: all
-  match: "**/*"
-  templates:
-  - wishlist
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "../uploads"
