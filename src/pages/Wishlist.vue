@@ -105,55 +105,6 @@
           /></a>
         </p>
       </li>
-      <li>
-        <p>
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/acaza-stevige-wassorteerder-wasmand-op-wieltjes-met-4-uitneembare-vakken-140l-zwart/9200000106113259/"
-            href="https://www.bol.com/nl/p/acaza-stevige-wassorteerder-wasmand-op-wieltjes-met-4-uitneembare-vakken-140l-zwart/9200000106113259/"
-            >Acaza Stevige Wassorteerder - Wasmand op Wieltjes met 4 Uitneembare
-            Vakken - 140L - Zwart</a
-          ><br />
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/acaza-stevige-wassorteerder-wasmand-op-wieltjes-met-4-uitneembare-vakken-140l-zwart/9200000106113259/"
-            href="https://www.bol.com/nl/p/acaza-stevige-wassorteerder-wasmand-op-wieltjes-met-4-uitneembare-vakken-140l-zwart/9200000106113259/"
-            ><img
-              src="../../uploads/16c22374aff24238989bb3420e4649fe.jpg"
-              alt="Acaza Stevige Wassorteerder - Wasmand op Wieltjes met 4 Uitneembare Vakken - 140L - Zwart"
-          /></a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/vb-61085-tafelcontactdoos-pro-10-voudig-ra-3m-schakelaar/9200000056907478/"
-            href="https://www.bol.com/nl/p/vb-61085-tafelcontactdoos-pro-10-voudig-ra-3m-schakelaar/9200000056907478/"
-            >VB 61085 Tafelcontactdoos Pro 10-Voudig + RA 3M + Schakelaar</a
-          ><br />
-          <a
-            data-from-md
-            title="https://www.bol.com/nl/p/vb-61085-tafelcontactdoos-pro-10-voudig-ra-3m-schakelaar/9200000056907478/"
-            href="https://www.bol.com/nl/p/vb-61085-tafelcontactdoos-pro-10-voudig-ra-3m-schakelaar/9200000056907478/"
-            ><img src="../../uploads/4c06e6b14a514bb39bf3d8b68fa68553.jpg" alt=""
-          /></a>
-        </p>
-      </li>
-      <li>
-        <p>
-          <a
-            data-from-md
-            title="https://tweakers.net/pricewatch/1436938/conbee-ii-zigbee-usb-gateway.html"
-            href="https://tweakers.net/pricewatch/1436938/conbee-ii-zigbee-usb-gateway.html"
-            >ConBee II Zigbee USB gateway</a
-          ><br />
-          <img
-            src="../../uploads/3d7627ad04494d0d8c6e7bf54db9ee9c.png"
-            alt="fb8cad2cc8ad945517d0edbc03e076b6.png"
-          />
-        </p>
-      </li>
     </ul>
   </Layout>
 </template>
