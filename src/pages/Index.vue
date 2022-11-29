@@ -19,7 +19,7 @@
         <h2>Latest blog posts</h2>
         <ul v-if="$page">
           <li v-for="edge in $page.posts.edges" :key="edge.node.id">
-            <a :href="edge.node.path">{{ edge.node.title }}</a>
+            <a v-if="edge.node.path" :href="edge.node.path">{{ edge.node.title }}</a>
           </li>
         </ul>
       </div>
