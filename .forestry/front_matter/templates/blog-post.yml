@@ -45,5 +45,25 @@ fields:
     schema:
       format: markdown
   label: Content
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
+- name: timetoread
+  type: number
+  label: Time To Read
+  description: ''
+  default: 10
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
 pages:
 - blog/placeholder.md
