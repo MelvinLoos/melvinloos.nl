@@ -5,7 +5,7 @@ date: 2022-12-01 18:00:43 +0100
 timetoread: 10
 title: Placeholder
 excerpt: ''
-image: ''
+image: "/uploads/hello.svg"
 content: ''
 
 ---
