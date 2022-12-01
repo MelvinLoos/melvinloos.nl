@@ -3,16 +3,16 @@ label: BlogPost
 hide_body: true
 display_field: title
 fields:
-- name: path
-  type: text
-  config:
-    required: false
-  label: Path
 - name: title
   type: text
   config:
     required: false
   label: Title
+- name: path
+  type: text
+  config:
+    required: false
+  label: Path
 - name: excerpt
   type: textarea
   default: ''
