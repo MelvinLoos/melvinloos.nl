@@ -8,6 +8,13 @@ fields:
   config:
     required: true
   label: Title
+- name: author
+  type: text
+  config:
+    required: true
+  label: Author
+  hidden: true
+  default: Melvin Loos
 - name: path
   type: text
   config:
