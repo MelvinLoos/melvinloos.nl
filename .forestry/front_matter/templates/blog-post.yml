@@ -58,7 +58,7 @@ fields:
 - name: timetoread
   type: number
   label: Time To Read
-  description: ''
+  description: Time to read this article in minutes
   default: 10
   required: true
   config:
